@@ -1,0 +1,40 @@
+body {
+  background-color: White;
+  margin-top: 65px;
+  font-family: "Courier", "monospace";
+  /*min-width: 800px;*/
+}
+
+footer {
+  margin-top: 65px;
+  background-color: Black;
+  color: White;
+  height: 100px;
+  width: 100%;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+}
+.streamDiv {
+  background-color: DarkCyan;
+  color: White;
+  text-align: left;
+  margin-top: 5px;
+  padding: 5px;
+  min-width: 60px;
+
+}
+
+.headingDiv {
+  background-color: DarkSlateGray;
+  color: White;
+  text-align: center;	
+}
+
+#outerbox {
+  color: White;
+  text-align: center;
+}
+
